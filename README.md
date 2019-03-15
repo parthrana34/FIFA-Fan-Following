@@ -1,0 +1,1 @@
+Comparison of FIFA Video game players' data within two years and finally relate it with a Twitter account to relate social trend with overall performance rank of players. Data munging, web scraping, Tweepy and Kaggle are used for data collection.
